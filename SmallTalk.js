@@ -1,4 +1,4 @@
-// {Name: qwertySmallTalk}
+// {Name: asdfgSmallTalk}
 // {Description: Gives responses to casual conversation.}
 
 title('Small talk')
