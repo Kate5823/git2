@@ -1,4 +1,4 @@
-// {Name: azxcvbSmallTalk}
+// {Name: qwertSmallTalk}
 // {Description: Gives responses to casual conversation.}
 
 title('Small talk')
