@@ -1,4 +1,4 @@
-// {Name: йцукенSmallTalk}
+// {Name: !!!!!!SmallTalk}
 // {Description: Gives responses to casual conversation.}
 
 title('Small talk')
